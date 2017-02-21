@@ -1,3 +1,4 @@
 public class{
   master change
+  local change
 }
