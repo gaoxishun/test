@@ -2,4 +2,5 @@ public class{
   master change2
   local master2 change
   mybranch2 change
+  mybranch2=====
 }
