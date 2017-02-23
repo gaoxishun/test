@@ -1,5 +1,4 @@
 public class 000S Test{
 master
 master change local3
-local4
 }
