@@ -1,5 +1,2 @@
 public class{
-  master change2
-  master change
-  master change
 }
