@@ -1,5 +1,4 @@
 public class 000S Test{
   master 变了
   master local2 变了
-  local2 push 完成后master变了
 }
